@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GAMEHrms", "GAMEHrms0.1\GAMEHrms.csproj", "{1905DF2A-96A6-462E-94F9-23BDDA01B85F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1905DF2A-96A6-462E-94F9-23BDDA01B85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1905DF2A-96A6-462E-94F9-23BDDA01B85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1905DF2A-96A6-462E-94F9-23BDDA01B85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1905DF2A-96A6-462E-94F9-23BDDA01B85F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55318257-6E8E-4EEC-BF54-BC6C67AA21FC}
+	EndGlobalSection
+EndGlobal
